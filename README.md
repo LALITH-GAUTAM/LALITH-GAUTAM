@@ -11,8 +11,9 @@ I'm a Bachelor of Computing Science co-op student at Thompson Rivers University 
 | Project | What I built | View |
 | --- | --- | --- |
 | **Mission Party Rental Website** | A paid client React website with a filterable rental catalogue, Formspree inquiries, deployment, and client handoff | [Live website](https://missionpartyrental.ca/) · [Project showcase](https://github.com/LALITH-GAUTAM/mission-party-rental-showcase) |
-| **LightSkope Creative Studio Website** | Our business website with services, client work, and project inquiries | [Business website](https://lightskope.com/) · [Project notes](projects/lightskope-creative-studio.md) |
-| **IPS Trucking Website** | A responsive transportation website and guided shipment inquiry interface | [Published preview](https://ips-driven-web.lovable.app/) · [Project notes](projects/ips-trucking-website.md) |
+| **LightSkope Creative Studio Website** | Our business website with services, client work, and project inquiries | [Business website](https://lightskope.com/) · [Project showcase](https://github.com/LALITH-GAUTAM/lightskope-studio-showcase) |
+| **IPS Trucking Website** | A responsive transportation website and guided shipment inquiry interface | [Published preview](https://ips-driven-web.lovable.app/) · [Project showcase](https://github.com/LALITH-GAUTAM/ips-trucking-showcase) |
+| **Rick Gautam Real Estate Website & Lead Portal** | Real estate website routes and a development CRM with documented production integration requirements | [Project showcase](https://github.com/LALITH-GAUTAM/rick-gautam-real-estate-showcase) |
 
 The client application repositories are private. These links provide public project descriptions and viewing entry points. The IPS website is a preview; its inquiry delivery integration is pending.
 
