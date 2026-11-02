@@ -2,7 +2,11 @@
 
 I'm a Bachelor of Computing Science co-op student at Thompson Rivers University and co-founder of **LightSkope Creative Studio**. I build websites and practical digital workflows for small businesses, alongside projects in Python, AI, and mobile development.
 
-**Available for an eight-month co-op: January-August 2027.**
+**Available for a four- or eight-month co-op starting January 2027.** Based in Abbotsford, BC, and open to relocation across Canada.
+
+**Interested in:** software/web development, QA and application support, and practical data or automation work.
+
+**Contact:** [lalithgautam04@gmail.com](mailto:lalithgautam04@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/lalith-gautam-a0226817a/) · [LightSkope business website](https://lightskope.com/)
 
@@ -22,6 +26,7 @@ The client application repositories are private. These links provide public proj
 - **Web:** JavaScript, TypeScript, React, Next.js, HTML, and CSS.
 - **Python and AI coursework:** NumPy, probabilistic text generation, applied AI, and machine learning.
 - **Mobile and integration:** Java, Kotlin, Firebase, HTTP APIs, and Formspree.
+- **Data:** SQL and MySQL.
 - **Delivery:** Git/GitHub, pull requests, Vercel, Cloudflare, and client documentation.
 - **AI-assisted development:** LLM prompting and Lovable, with human review of output and care around customer data.
 
